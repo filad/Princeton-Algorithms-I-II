@@ -1,0 +1,1 @@
+![alt text](./summary-percolation.png)
