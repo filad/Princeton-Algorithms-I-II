@@ -1,0 +1,1 @@
+![alt text](./summary-8puzzle.png)
